@@ -113,7 +113,7 @@
         <h1>Send Feedback</h1>
         <p class="subtitle">We'd love to hear what you think.</p>
 
-        <form method="post">
+        <form method="post" novalidate>
             {% csrf_token %}
             {{ form.as_p }}
             <button type="submit">Submit</button>
