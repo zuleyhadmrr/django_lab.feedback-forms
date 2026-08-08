@@ -32,7 +32,7 @@ This project is **MP2** of a structured Django learning roadmap, focused on Djan
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/django-feedback-forms.git
+git clone https://github.com/zuleyhadmrr/django-feedback-forms.git
 cd django-feedback-forms
 ```
 
