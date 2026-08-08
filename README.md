@@ -20,7 +20,7 @@ This project is **MP2** of a structured Django learning roadmap, focused on Djan
 
 ## Tech Stack
 
-- **Python 3.x**
+- **Python 3.13.7**
 - **Django 6.0**
 - **SQLite** (default development database)
 - HTML / CSS (no frameworks)
